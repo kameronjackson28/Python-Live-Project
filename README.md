@@ -1,5 +1,5 @@
 # Python-Live-Project
-For the Python Live Project I got to put the skills that I learned on the python course to use. I was able to be a part of a team effort but working mostly on my own. Below are some code snippets and skills that I learned going through the project. Including 
+For the Python Live Project I got to put the skills that I learned on the python course to use. I was able to be a part of a team effort but working mostly on my own. Below are some code snippets and skills that I learned going through the project. I was able to learn how to navigate Django and extend my knowledge of that platform. Below is a portion of my project including [front end stories](#front-end-stories) and [back-end stories](#back-end-stories).
 
 
 ## Front-End Stories
